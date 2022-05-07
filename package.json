@@ -1,7 +1,7 @@
 {
   "name": "binary-addition",
   "version": "0.1.00",
-  "description": "binary addition",
+  "description": "the binary addition on two arrays of n bits",
   "license": "MIT",
   "scripts": {
     "test": "jest --watch"
