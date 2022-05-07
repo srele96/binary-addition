@@ -1,0 +1,12 @@
+{
+  "name": "binary-addition",
+  "version": "0.1.00",
+  "description": "binary addition",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
